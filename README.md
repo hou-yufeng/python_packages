@@ -21,24 +21,33 @@ My Batches in this repository are all released under is the [MIT license](https:
     + Add pythondata_package_py310.zip, included the following packages that is necessary for Data Science:
   + Path: \Packages\DataScience\pythondata_package_py310.zip
   
-  > numpy
-  > pandas
-  > matplotlib
-  > lxml
-  > seaborn
-  > statsmodels
-  > scipy
-  > patsy
-  > scikit-learn
-  > beautifulsoup4
-
-  + How to use:
-  
-    Download the zip file, uncompress, and then execute **requirements_install.bat**
+  > numpy 
+  >
+  > pandas 
+  >
+  > matplotlib 
+  >
+  > lxml 
+  >
+  > seaborn 
+  >
+    > statsmodels 
+  >
+  > scipy 
+  >
+  > patsy 
+  >
+  > scikit-learn 
+  >
+    > beautifulsoup4 
     
-  + Compatibility:
+    + How to use:
     
-    All packages are compatibility with Python 3.10. I don't test if it can work on other version of Python
-=======
+      Download the zip file, uncompress, and then execute **requirements_install.bat**
+      
+    + Compatibility:
+      
+      All packages are compatibility with Python 3.10. I don't test if it can work on other version of Python
+      =======
 # python_packages
 >>>>>>> 1b61ccfa4d7268f3a987f7ef27b575365f571c11
