@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Packages
 
 This repository contains the 3rd Python packages that I had collected. Frankly speaking I'm not old hand in Python, but I really thanks to Python that I can do some interesting things with Python. Python makes my work and life more efficient and funny:)
