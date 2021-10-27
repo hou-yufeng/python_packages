@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Packages
 
 This repository contains the 3rd Python packages that I had collected. Frankly speaking I'm not old hand in Python, but I really thanks to Python that I can do some interesting things with Python. Python makes my work and life more efficient and funny:)
@@ -38,3 +39,6 @@ My Batches in this repository are all released under is the [MIT license](https:
   + Compatibility:
     
     All packages are compatibility with Python 3.10. I don't test if it can work on other version of Python
+=======
+# python_packages
+>>>>>>> 1b61ccfa4d7268f3a987f7ef27b575365f571c11
